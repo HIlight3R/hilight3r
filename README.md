@@ -15,7 +15,7 @@
   - Discord.py
 - HTML
 - CSS
-  - BootStrap
+  - Bootstrap
 - SQL
   - MySQL
   - MariaDB
