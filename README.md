@@ -11,20 +11,13 @@
 ## Мои навыки
 - 🐍 Python 3
   - 🚬 Django
-  - 💬 pyTelegramBotAPI (TeleBot)
   - 🎮 Discord.py
 - 🌐 HTML
 - 📃 CSS
   - 🅱 Bootstrap
 - 🌌 SQL
-  - 💥 MySQL
-  - 🔥 MariaDB
   - 🔰 SQLite
-- 🐧 Linux (Ubuntu, Debian)
+- 🐧 Linux
   - 📦 Bash
-- 🚪 Windows
-  - 💻 CMD
-  - 📒 Batch
-  - 👾 PowerShell
 ## Прочее
 Я с удовольствием приму участие в Вашем ***OpenSource*** проекте, пишите на почту (в профиле), в Telegram (@HIlight3R) или в Discord (HIlight3R#8225).
