@@ -21,6 +21,5 @@
 - 🐧 Linux
   - 📦 Bash
 ## Контакты
-- Электронная почта - hilight3r7@gmail.com
 - Telegram - [@HIlight3R](https://t.me/hilight3r)
 - Discord - HIlight3R#8225
