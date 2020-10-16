@@ -4,6 +4,8 @@
 ***
 
 <p align="center">
+  <img alt="Logo" src="./logo.png" width="300" height="300">
+  <br>
   <img alt="Subscribers" src="https://img.shields.io/github/followers/hilight3r?label=Subscribers&style=social">
   <img alt="My stars" src="https://img.shields.io/github/stars/hilight3r?label=My%20stars&style=social">
 </p>
