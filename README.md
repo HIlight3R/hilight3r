@@ -1,34 +1,35 @@
-# Добро пожаловать на мой GitHub!
-Тут находится большинство моих проектов. Все их Вы можете использовать для себя!
+<h1 align="center">Welcome to the my GitHub!</h1>
+<p align="center">Most of my projects are located here. You can use all of them for yourself!</p>
 
 ***
 
 <p align="center">
-  <img alt="Подписчики" src="https://img.shields.io/github/followers/hilight3r?label=%D0%9F%D0%BE%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8&style=social">
-  <img alt="Звезды" src="https://img.shields.io/github/stars/hilight3r?label=%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B&style=social">
+  <img alt="Subscribers" src="https://img.shields.io/github/followers/hilight3r?label=Subscribers&style=social">
+  <img alt="My stars" src="https://img.shields.io/github/stars/hilight3r?label=My%20stars&style=social">
 </p>
 
 ***
 
-## Активные проекты
+## Active projects
 
-- 💠 **Dominator** - Бот для Discord, предоставляет функции для модерации и веселья.
-- 🔶 **HEXYZ** - Небольшой банк, написанный на Python Django 3, может использоваться в развлекательных целях. Пока не разрабатывается.
+- 💠 **Dominator** - Discord bot for moderation and fun.
+- 🔶 **HEXYZ** - A simple "toy" bank written in Python Django 3. Temporarily out of development.
 
-*Скоро будут еще проекты, не забывайте иногда просматривать эту страничку!*
-## Немного обо мне
-Меня зовут Владислав, я живу в Москве, сам начинающий программист, увлекаюсь созданием сайтов, ботов и программок для автоматизации рутинных задач.
-## Мои навыки
+*More projects coming soon, don't forget to look at this page sometimes!*
+
+## A few details about myself
+Hello! My name is Vladislav. I have been fond of programming since 2017. I like this. You can see a short list of what I've learned during this time below.
 - 🐍 Python 3
   - 🚬 Django
   - 🎮 Discord.py
 - 🌐 HTML
 - 📃 CSS
-  - 🅱 Bootstrap
+  - 🅱 Bootstrap 4
 - 🌌 SQL
   - 🔰 SQLite
 - 🐧 Linux
   - 📦 Bash
-## Контакты
+  
+## Contacts
 - Telegram - [@HIlight3R](https://t.me/hilight3r)
 - Discord - HIlight3R#8225
