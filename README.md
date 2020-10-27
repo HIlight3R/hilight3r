@@ -24,13 +24,13 @@ Hello! My name is Vladislav. I have been fond of programming since 2017. I like 
 - 🐍 Python 3
   - 🚬 Django
   - 🎮 Discord.py
-- 🌐 HTML
-- 📃 CSS
+- 🌐 HTML 5
+- 📃 CSS 3
   - 🅱 Bootstrap 4
 - 🌌 SQL
-  - 🔰 SQLite
+  - 🔰 SQLite + MySQL + MariaDB
+- 🐆️ FreePascal
 - 🐧 Linux
-  - 📦 Bash
   
 ## Contacts
 - Telegram - [@HIlight3R](https://t.me/hilight3r)
