@@ -31,5 +31,4 @@ Hello! My name is Vladislav. I have been fond of programming since 2017. I like 
 [![Gmail](https://img.shields.io/badge/-gmail-d14836?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:hilight3r7@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/hilight3r)
 [![Discord](https://img.shields.io/badge/-discord-7289da?style=for-the-badge&logo=discord&logoColor=ffffff)](https://dsc.bio/hilight3r)
-[![YouTube](https://img.shields.io/badge/-youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCD8LySmdCNm6slCtagQVinA)
 [![Steam](https://img.shields.io/badge/-steam-000000?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/hilight3r/)
