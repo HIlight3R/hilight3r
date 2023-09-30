@@ -11,8 +11,7 @@
 
 ## Stats
 
-![GitHub followers](https://img.shields.io/github/followers/hilight3r?color=555555&label=Followers&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/hilight3r?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=555555&label=My%20stars&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/HIlight3R?label=github%20followers&style=for-the-badge&logo=github&logoColor=%23ffffff&labelColor=%23181717&color=%23181717)
 
 ![HIlight3R's github stats](https://github-readme-stats.vercel.app/api?username=hilight3r&show_icons=true&theme=dark&include_all_commits=true&count_private=true&disable_animations=true)
 
